@@ -1,0 +1,9 @@
+namespace Documenter.API.Models
+{
+    public class Value
+    {
+        public int Id { get; set; }
+        public string userName { get; set; }
+        public string Role { get; set; }
+    }
+}
